@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-import ProfileCard from './components/ProfileCard'
+import FruitList from './components/FruitList'
 
 function App() {
   return (
     <div className="app-container">
       <div className="app">
-        <ProfileCard />
+        <FruitList />
       </div>
     </div>
   )
